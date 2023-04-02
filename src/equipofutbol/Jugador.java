@@ -3,6 +3,7 @@ public class Jugador {
     // Atributos
     private String nombre;
     private String posicion;
+    private String nacionalidad;
     private int numeroCamiseta;
 
     // Constructor
